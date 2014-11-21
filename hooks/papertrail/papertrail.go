@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/lattwood/logrus"
+	"github.com/therounds/logrus"
 )
 
 const (
