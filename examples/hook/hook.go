@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/lattwood/logrus"
-	"github.com/lattwood/logrus/hooks/airbrake"
+	"github.com/therounds/logrus"
+	"github.com/therounds/logrus/hooks/airbrake"
 	"github.com/tobi/airbrake-go"
 )
 
